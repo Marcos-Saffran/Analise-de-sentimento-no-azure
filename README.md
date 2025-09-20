@@ -2,7 +2,7 @@
 
 Este repositório contém dois guias práticos para explorar os serviços de Inteligência Artificial do Azure usando as ferramentas online do Language Studio e do Speech Studio. Os documentos fornecem passos claros, capturas de tela e instruções para testar recursos importantes como análise de sentimento, extração de opiniões e conversão de texto em fala.
 
-- **Arquivo:** [Languague_studio.md](./Languague_studio.md) — Guia para explorar o Azure AI Language (Language Studio).
+- **Arquivo:** [Language_studio.md](./Language_studio.md) — Guia para explorar o Azure AI Language (Language Studio).
 - **Arquivo:** [Speech_studio.md](./Speech_studio.md) — Guia para explorar o Azure AI Speech (Speech Studio).
 
 ## Objetivo
@@ -17,7 +17,7 @@ Fornecer instruções rápidas e reproduzíveis para que um usuário consiga: 1)
 
 Estrutura do repositório
 
-- `Languague_studio.md` — Passo a passo para usar o recurso "Analyze sentiment and mine opinions" no Language Studio. Inclui imagens em `imagens/language_service/`.
+- `Language_studio.md` — Passo a passo para usar o recurso "Analyze sentiment and mine opinions" no Language Studio. Inclui imagens em `imagens/language_service/`.
 - `Speech_studio.md` — Passo a passo para experimentar a conversão de texto em fala. Inclui imagens em `imagens/speech_studio/`.
 - `imagens/` — Contém capturas de tela que ilustram os passos em cada guia.
 
@@ -25,7 +25,7 @@ Como usar estes guias
 
 1. Abra este repositório localmente no seu editor de preferência (por exemplo, VS Code).
 2. Leia o arquivo correspondente ao serviço que deseja testar:
-   - Para testar análise de sentimento e extração de opiniões, abra `Languague_studio.md`.
+   - Para testar análise de sentimento e extração de opiniões, abra `Language_studio.md`.
    - Para testar texto → fala, abra `Speech_studio.md`.
 3. Siga os passos descritos em cada arquivo. As imagens referenciadas são locais e podem ser visualizadas diretamente no editor ou em um visualizador de imagens.
 
@@ -43,7 +43,7 @@ Links úteis
 
 As imagens usadas nos guias estão na pasta `imagens/` e organizadas por serviço:
 
-- `imagens/language_service/` — capturas de tela e ilustrações para `Languague_studio.md`.
+- `imagens/language_service/` — capturas de tela e ilustrações para `Language_studio.md`.
 - `imagens/speech_studio/` — capturas de tela e ilustrações para `Speech_studio.md`.
 
 Você pode abrir as imagens diretamente no VS Code ou em qualquer visualizador de imagens para acompanhar os passos descritos nos arquivos Markdown.
