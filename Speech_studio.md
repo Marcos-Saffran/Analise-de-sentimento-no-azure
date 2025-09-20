@@ -13,19 +13,19 @@ Studio.
 1. No navegador de sua preferência, abra o [IA do Azure \| Speech
     Studio](https://speech.microsoft.com/portal).
 
-![Imagem](.\imagens\speech_studio\image3.png)
+![Imagem](./imagens/speech_studio/image3.png)
 
 2. Navegue para baixo, até encontrar as opções de ***Conversão de texto em fala***.
 
 3. Selecione a opção [Explorar a Galeria de
     Vozes](https://speech.microsoft.com/portal/voicegallery).
 
-![Imagem](.\imagens\speech_studio\image2.png)
+![Imagem](./imagens/speech_studio/image2.png)
 
 4. Na tela que abriu escolha uma voz no catálogo de vozes
     disponibilizados.
 
-![Imagem](.\imagens\speech_studio\image3.png)
+![Imagem](./imagens/speech_studio/image3.png)
 
 5. No lado direito, escolha a opção Experimente e digite um texto para
     testar.
