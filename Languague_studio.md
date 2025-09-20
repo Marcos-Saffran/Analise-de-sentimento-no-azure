@@ -12,16 +12,16 @@ Studio.
 1. No navegador de sua preferência, abra o [Azure AI \| Language
     Studio](https://language.cognitive.azure.com/).
 
-![Imagem](.\imagens\language_service\01_tela_principal_language_studio.png)
+![Imagem](./imagens/language_service/01_tela_principal_language_studio.png)
 
 2. Escolha a opção ***Classify text*** e nas opções que aparecem, selecione ***Try it out*** de ***Analyze sentiment and mine opinions***.
 
 3. Na tela que abriu digite o texto desejado ou selecione um dos exemplos disponíveis.
 
-![Imagem](.\imagens\language_service\02-tela_analyze_sentiment_and_opinions.png)
+![Imagem](./imagens/language_service/02-tela_analyze_sentiment_and_opinions.png)
 
 4. Clique em ***Run*** e veja os resultados.
 
-![Imagem](.\imagens\language_service\03_clique_em_run_e_veja_as_analises.png)
+![Imagem](./imagens/language_service/03_clique_em_run_e_veja_as_analises.png)
 
 Neste exercício testamos o recurso de analisar sentimentos e extrair opiniões.
