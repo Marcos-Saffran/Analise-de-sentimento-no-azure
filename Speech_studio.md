@@ -11,7 +11,7 @@ Studio.
 ## Testar o recurso de conversão de texto em fala.
 
 1. No navegador de sua preferência, abra o [IA do Azure \| Speech
-    Studio](https://speech.microsoft.com/portal) .
+    Studio](https://speech.microsoft.com/portal).
 
 ![Imagem](.\imagens\speech_studio\image3.png)
 
